@@ -9,6 +9,7 @@ Tech Stack
 - Java 8
 - Kafka
 - Maven 
+- Git
 - kafkacat (optional - if you do not want to use MQTT Producers, and of course you can also use kafka-console-producer instead, but kafkacat is much more comfortable)
 Java 8
 ------------
@@ -34,5 +35,12 @@ sudo apt-get update && sudo apt-get install confluent-platform-oss-2.11
 Kafkacat
 ------------
 ```
-apt-get install kafkacat
+sudo apt-get update
+sudo apt-get install kafkacat
+```
+Git
+------------
+```
+sudo apt-get update
+sudo apt-get install git
 ```
