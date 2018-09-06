@@ -11,6 +11,7 @@ Tech Stack
 - Maven 
 - Git
 - kafkacat (optional - if you do not want to use MQTT Producers, and of course you can also use kafka-console-producer instead, but kafkacat is much more comfortable)
+
 Java 8
 ------------
 ```
